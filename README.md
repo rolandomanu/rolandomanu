@@ -15,9 +15,8 @@ Bilingual (English/Spanish) Cybersecurity Professional with 6+ years of experien
 
 ### 📂 Featured Projects & Repositories
 
-* 🛡️ **[grc-risk-assessment-fintech](https://github.com/rolandomanu/grc-risk-assessment-fintech)**
-  * *GRC Risk Assessment & Control Mapping:* Complete risk register and control alignment between **ISO/IEC 27001** and **NIST CSF** for a simulated FinTech environment. Includes English and Spanish access control policies.
-
+* **[`grc-risk-assessment-fintech`](https://github.com/rolandomanu/grc-risk-assessment-fintech)**: GRC Risk Assessment & Control Mapping between ISO/IEC 27001 and NIST CSF for FinTech environments. Includes bilingual policies.
+* **[`enterprise-data-protection-governance-lab`](https://github.com/rolandomanu/enterprise-data-protection-governance-lab)**: Hands-on Microsoft Purview & Forcepoint DLP configuration lab, sensitivity labeling, and access assurance controls.
 ---
 
 ### 📜 Certifications & Credentials
