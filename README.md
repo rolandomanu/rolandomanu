@@ -17,7 +17,7 @@ Bilingual (English/Spanish) Cybersecurity Professional with 6+ years of experien
 
 * **[`grc-risk-assessment-fintech`](https://github.com/rolandomanu/grc-risk-assessment-fintech)**: GRC Risk Assessment & Control Mapping between ISO/IEC 27001 and NIST CSF for FinTech environments. Includes bilingual policies.
 * **[`enterprise-data-protection-governance-lab`](https://github.com/rolandomanu/enterprise-data-protection-governance-lab)**: Hands-on Microsoft Purview & Forcepoint DLP configuration lab, sensitivity labeling, and access assurance controls.
-* * **[grc-iso27001-nist-mapping](https://github.com/rolandomanu/grc-iso27001-nist-mapping)**: Cybersecurity GRC framework mapping ISO/IEC 27001:2022 controls against the NIST Cybersecurity Framework (CSF) and NIST SP 800-53. Designed to streamline compliance, risk assessments, and security controls.
+* **[grc-iso27001-nist-mapping](https://github.com/rolandomanu/grc-iso27001-nist-mapping)**: Cybersecurity GRC framework mapping ISO/IEC 27001:2022 controls against the NIST Cybersecurity Framework (CSF) and NIST SP 800-53. Designed to streamline compliance, risk assessments, and security controls.
 ---
 
 ### 📜 Certifications & Credentials
